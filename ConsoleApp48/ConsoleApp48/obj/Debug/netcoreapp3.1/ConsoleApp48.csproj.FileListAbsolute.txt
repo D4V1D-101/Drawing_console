@@ -1,0 +1,13 @@
+C:\Users\Ny19RigóD\source\repos\ConsoleApp48\ConsoleApp48\bin\Debug\netcoreapp3.1\ConsoleApp48.exe
+C:\Users\Ny19RigóD\source\repos\ConsoleApp48\ConsoleApp48\bin\Debug\netcoreapp3.1\ConsoleApp48.deps.json
+C:\Users\Ny19RigóD\source\repos\ConsoleApp48\ConsoleApp48\bin\Debug\netcoreapp3.1\ConsoleApp48.runtimeconfig.json
+C:\Users\Ny19RigóD\source\repos\ConsoleApp48\ConsoleApp48\bin\Debug\netcoreapp3.1\ConsoleApp48.runtimeconfig.dev.json
+C:\Users\Ny19RigóD\source\repos\ConsoleApp48\ConsoleApp48\bin\Debug\netcoreapp3.1\ConsoleApp48.dll
+C:\Users\Ny19RigóD\source\repos\ConsoleApp48\ConsoleApp48\bin\Debug\netcoreapp3.1\ConsoleApp48.pdb
+C:\Users\Ny19RigóD\source\repos\ConsoleApp48\ConsoleApp48\obj\Debug\netcoreapp3.1\ConsoleApp48.csproj.AssemblyReference.cache
+C:\Users\Ny19RigóD\source\repos\ConsoleApp48\ConsoleApp48\obj\Debug\netcoreapp3.1\ConsoleApp48.AssemblyInfoInputs.cache
+C:\Users\Ny19RigóD\source\repos\ConsoleApp48\ConsoleApp48\obj\Debug\netcoreapp3.1\ConsoleApp48.AssemblyInfo.cs
+C:\Users\Ny19RigóD\source\repos\ConsoleApp48\ConsoleApp48\obj\Debug\netcoreapp3.1\ConsoleApp48.csproj.CoreCompileInputs.cache
+C:\Users\Ny19RigóD\source\repos\ConsoleApp48\ConsoleApp48\obj\Debug\netcoreapp3.1\ConsoleApp48.dll
+C:\Users\Ny19RigóD\source\repos\ConsoleApp48\ConsoleApp48\obj\Debug\netcoreapp3.1\ConsoleApp48.pdb
+C:\Users\Ny19RigóD\source\repos\ConsoleApp48\ConsoleApp48\obj\Debug\netcoreapp3.1\ConsoleApp48.genruntimeconfig.cache
